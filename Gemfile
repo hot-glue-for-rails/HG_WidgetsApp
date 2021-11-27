@@ -38,3 +38,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'redis', '~> 4.0'
 gem 'hot-glue', '0.2.9E'
 gem 'bootstrap-rubygem'
+
+gem 'font-awesome-sass', '~> 5.15.1'
